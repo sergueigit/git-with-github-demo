@@ -7,5 +7,7 @@ Disallow:
 # This line has been added to demonstrate the usage of SSH protocol
 
 # some line
-serg added
-serg added 2
+# serg added
+#serg added 2
+#
+# line-1 to demonstrate usage of git push command.
