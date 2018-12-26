@@ -11,3 +11,4 @@ Disallow:
 #serg added 2
 #
 # line-1 to demonstrate usage of git push command.
+# line-2 to demonstrate usage of git push command with SSH key.
