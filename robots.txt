@@ -12,3 +12,4 @@ Disallow:
 #
 # line-1 to demonstrate usage of git push command.
 # line-2 to demonstrate usage of git push command with SSH key.
+# line-3 to demonstrate usage of git push SSH protocol.
